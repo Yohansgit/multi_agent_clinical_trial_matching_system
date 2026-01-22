@@ -72,7 +72,7 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 - **Reasoning Agent** – Determines eligibility and detects conflicts  
 - **Critic Agent** – Verifies claims against source evidence  
 
-> See: ![System Architecture](assets/architecture.png)
+See: ![System Architecture](assets/architecture.png)
 
 ```mermaid   
 flowchart TB
