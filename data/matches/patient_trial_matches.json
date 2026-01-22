@@ -1,0 +1,186 @@
+[
+  {
+    "patient_id": "PAT_0001",
+    "nct_id": "NCT06219590",
+    "title": "Acetylcholine Iontophoresis As A New Challenge With Type 2 Diabetic Peripheral Neuropathy: A Possible New Therapy",
+    "eligible": true,
+    "reasons": [],
+    "match_score": 0.582,
+    "patient_summary": {
+      "conditions": [
+        "Type 1 Diabetes",
+        "Neuropathy"
+      ],
+      "medications": [
+        "Insulin"
+      ]
+    },
+    "Criteria": {
+      "inclusion": [
+        "Patients have to be symptomatically stable with type 2 diabetes mellitus complicated with peripheral neuropathy.",
+        "Optimized pharmacological treatment that will be remained unchanged throughout the study."
+      ],
+      "exclusion": [
+        "Implanted cardiac pacemakers.",
+        "Patients with known skin allergies.",
+        "Presence of skin inflammations.",
+        "Peripheral vascular disease."
+      ]
+    }
+  },
+  {
+    "patient_id": "PAT_0001",
+    "nct_id": "NCT06407297",
+    "title": "UCMSCs Combined With Standard Therapy for the Treatment of Newly Diagnosed Type 1 Diabetes",
+    "eligible": true,
+    "reasons": [],
+    "match_score": 0.5726,
+    "patient_summary": {
+      "conditions": [
+        "Type 1 Diabetes",
+        "Neuropathy"
+      ],
+      "medications": [
+        "Insulin"
+      ]
+    },
+    "Criteria": {
+      "inclusion": [
+        "Meets the diagnostic criteria for diabetes according to the World Health Organization (WHO) guidelines from 1999.",
+        "Presence of at least one pancreatic autoantibody, or idiopathic type 1 diabetes mellitus (T1DM) with negative autoantibody testing.",
+        "Ages 8 to 18 years, regardless of gender.",
+        "Newly diagnosed T1DM within the past 6 months.",
+        "Fasting C-peptide \u22650.1 nmol/L and postprandial 2-hour C-peptide >0.2 nmol/L.",
+        "Voluntary acceptance of stem cell transplantation therapy by the individual, their family members, or legal guardians, and signing of an informed consent form."
+      ],
+      "exclusion": [
+        "Diabetic ketoacidosis is not under control.",
+        "Severe allergic constitution.",
+        "BMI <14 or >35.",
+        "History of other autoimmune diseases, hematologic disorders.",
+        "HIV positive, carrier of viral hepatitis, active phase of viral hepatitis, or other uncontrolled infectious diseases.",
+        "History of acute pancreatitis, pulmonary embolism, or other thrombotic diseases, as well as severe diseases of the heart, liver, kidneys, respiratory system, nervous system, etc.",
+        "Suffering from gestational diabetes, monogenic diabetes, diabetes caused by pancreatic injury, or other secondary diabetes (such as Cushing's syndrome, thyroid dysfunction, or acromegaly-induced diabetes).",
+        "Pregnancy or planning pregnancy within 3 months before or after treatment, as well as breastfeeding women.",
+        "Mental illness, alcohol or drug abuse, inability to comply with treatment.",
+        "Known or suspected tumors.",
+        "According to the investigator's judgment, there are other clinical conditions that may endanger the safety of the subjects."
+      ]
+    }
+  },
+  {
+    "patient_id": "PAT_0001",
+    "nct_id": "NCT05498974",
+    "title": "China Diabetes Type 1 Study (CD1S) by China Alliance for Type 1 Diabetes",
+    "eligible": true,
+    "reasons": [],
+    "match_score": 0.5675,
+    "patient_summary": {
+      "conditions": [
+        "Type 1 Diabetes",
+        "Neuropathy"
+      ],
+      "medications": [
+        "Insulin"
+      ]
+    },
+    "Criteria": {
+      "inclusion": [
+        "Patients with type 1 diabetes mellitus of any duration; meeting criteria (1) or any of (2) or any of (3)",
+        "Clinical diagnosis of type 1 diabetes by a specialist",
+        "Age at onset < 15 years; no overweight or obesity at onset; previous diabetic ketoacidosis; highest random C-peptide < 200 pmol/L",
+        "Initiation and continuation of insulin therapy (except pancreatic or islet transplantation) after diagnosis; positive islet autoantibodies",
+        "Children and adolescents with diabetes mellitus at age of onset <= 20 years, regardless of type and duration of disease."
+      ],
+      "exclusion": [
+        "No insulin dependence for at least 6 months after diagnosis of diabetes mellitus.",
+        "No DKA for 1 month off insulin for those with a history of diabetes > 1 year.",
+        "C-peptide > 800 pmol/L at any time point."
+      ]
+    }
+  },
+  {
+    "patient_id": "PAT_0001",
+    "nct_id": "NCT07248631",
+    "title": "Combined Effects of Foot-Ankle Therapeutic Exercises and Mindful Walking in Patients With Diabetic Polyneuropathy",
+    "eligible": true,
+    "reasons": [],
+    "match_score": 0.5619,
+    "patient_summary": {
+      "conditions": [
+        "Type 1 Diabetes",
+        "Neuropathy"
+      ],
+      "medications": [
+        "Insulin"
+      ]
+    },
+    "Criteria": {
+      "inclusion": [
+        "Diagnosed with diabetic polyneuropathy (DPN) confirmed by medical history and clinical examination.",
+        "Experience pain and disability in foot/ankle, with a Numeric Pain Rating Scale (NPRS) score \u2265 4.",
+        "Independent walking ability for at least 10 m.",
+        "Age (40-75) years.",
+        "Ability to understand and follow exercise instructions.",
+        "A maximum of one amputated toe, not being the hallux.",
+        "Willingness to participate in the study and provide informed consent."
+      ],
+      "exclusion": [
+        "Presence of an active plantar ulcer or gangrene.",
+        "History of surgical procedure at the knee, ankle, or hip or indication of surgery throughout the intervention period.",
+        "Arthroplasty and/or orthosis of lower limbs or indication of lower limb arthroplasty throughout the intervention period.",
+        "Participating in other exercise programs or studies.",
+        "Dementia or inability to give consistent information.",
+        "Diagnosis of neurological diseases.",
+        "Neuropathic pain due to other causes (e.g., HIV, chemotherapy).",
+        "Major vascular complications and/or severe retinopathy."
+      ]
+    }
+  },
+  {
+    "patient_id": "PAT_0001",
+    "nct_id": "NCT07063524",
+    "title": "Transcutaneous Electrical Stimulation and Controlled Heat in People With and Without Diabetes",
+    "eligible": false,
+    "reasons": [
+      "Reasoning Engine Veto: Diagnosed neuropathy"
+    ],
+    "match_score": 0.5363,
+    "patient_summary": {
+      "conditions": [
+        "Type 1 Diabetes",
+        "Neuropathy"
+      ],
+      "medications": [
+        "Insulin"
+      ]
+    },
+    "Criteria": {
+      "inclusion": [
+        "Male or Female aged between 45-75 years old",
+        "Clinical diagnosis of Type I or Type II diabetes",
+        "Controlled diabetes mellitus (HbA1c \u2264 7%)"
+      ],
+      "exclusion": [
+        "Pregnancy",
+        "Current smoker",
+        "Diagnosed neuropathy",
+        "Uncontrolled hypertension (HTN)",
+        "Allergy to tape or electrodes",
+        "Diagnosis of dementia",
+        "History of knee joint replacement",
+        "Significant joint pain (e.g., back, hip, or ankle) that may limit the ability to wear a boot for 60 minutes",
+        "Presence of pacemakers",
+        "Dermatological conditions",
+        "Abnormal sensation in the knees",
+        "Chronic obstructive pulmonary disease",
+        "Cardiovascular disease",
+        "Arteriosclerosis obliterans",
+        "Cerebrovascular accident",
+        "Lumbar disc disorders (e.g., herniation)",
+        "Rheumatoid arthritis",
+        "Fear of electrical stimulation"
+      ]
+    }
+  }
+]

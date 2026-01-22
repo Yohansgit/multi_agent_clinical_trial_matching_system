@@ -1,0 +1,5502 @@
+[
+  {
+    "patient_id": "PAT_00001",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00002",
+    "matches": [
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00003",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00004",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00005",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00006",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00007",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00008",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07116434",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00009",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00010",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00011",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07073781",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04940962",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06305208",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00012",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07073781",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04940962",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06305208",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00013",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07073781",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00014",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00015",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00016",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00017",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00018",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00019",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00020",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00021",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07116434",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00022",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00023",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00024",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00025",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00026",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00027",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07116434",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00028",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00029",
+    "matches": [
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00030",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00031",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00032",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00033",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00034",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07116434",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00035",
+    "matches": [
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00036",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04940962",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07073781",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00037",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04463160",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00038",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00039",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00040",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00041",
+    "matches": [
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07116434",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00042",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 1 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04200391",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00043",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'obesity' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07073781",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT04940962",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06305208",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00044",
+    "matches": [
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350513",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00045",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00046",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00047",
+    "matches": [
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06555952",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05369065",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06412536",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06735859",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00048",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06350149",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07063524",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06246175",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06619834",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00049",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT_00050",
+    "matches": [
+      {
+        "nct_id": "NCT06222775",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05498974",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06902857",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06407297",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07150052",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06770673",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT02969798",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05179954",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06862128",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06325202",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06738849",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT07193446",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT05754008",
+        "eligible": true,
+        "reasons": [
+          "Deterministic match: Patient condition 'type 2 diabetes' found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06814171",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      },
+      {
+        "nct_id": "NCT06650969",
+        "eligible": false,
+        "reasons": [
+          "No matching condition found in trial title."
+        ]
+      }
+    ]
+  }
+]

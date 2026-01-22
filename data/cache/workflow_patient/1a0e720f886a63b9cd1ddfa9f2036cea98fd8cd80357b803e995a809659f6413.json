@@ -1,0 +1,140 @@
+{
+  "patient_id": "PAT_00012",
+  "verified_trials": [
+    {
+      "nct_id": "NCT06222775",
+      "title": "Multicomponent Intervention on Lifestyle, Anthropometric Measurements, Glycemic Control and Quality of Life in Patients Obese People With Type II Diabetes",
+      "eligible": false,
+      "score": 0.5314,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06412536",
+      "title": "Triage Survey for Cardiovascular, Obesity, and Related Endocrine Trial Eligibility",
+      "eligible": false,
+      "score": 0.5123,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06350149",
+      "title": "A Pilot and Feasibility Study to Evaluate High vs Low Glycemic Index Mixed Meal Tolerance Test in Adolescents and Young Adults With Cystic Fibrosis",
+      "eligible": false,
+      "score": 0.4824,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06735859",
+      "title": "Eating Window and Sleep Disorders on Glycemic Control, Cardiovascular Risk, and Weight Loss",
+      "eligible": false,
+      "score": 0.4822,
+      "reasoning": [
+        "Hard exclusion matched: no diagnosis of obesity, diabetes, and hypertension"
+      ]
+    },
+    {
+      "nct_id": "NCT07073781",
+      "title": "Probiotic Impact on Cognitive Performance, and Metabolic Outcomes in Overweight Young Adults With Impaired Glucose Regulation",
+      "eligible": false,
+      "score": 0.4653,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT04940962",
+      "title": "Translational Study Using Human Abdominal Adipose Tissue Biopsies to Investigate the Role of Cannabinoid Receptor 1 (CB1) in Controlling Endocannabinoid and Adipokine Secretion",
+      "eligible": false,
+      "score": 0.4582,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT02969798",
+      "title": "Pre-diabetes in Subject With Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)",
+      "eligible": false,
+      "score": 0.4516,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06770673",
+      "title": "Together Overcoming Diabetes - Great Plains",
+      "eligible": false,
+      "score": 0.447,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06246175",
+      "title": "A Study of HRS9531 in Participants With Impaired Kidney Function and Healthy Subjects",
+      "eligible": false,
+      "score": 0.4378,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06305208",
+      "title": "A UK Registry for Metabolic and Bariatric Endoscopic Interventions",
+      "eligible": false,
+      "score": 0.4361,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06555952",
+      "title": "MegaNatural BP\u00ae GSE on Blood Pressure and Cardiometabolic Risk Factors",
+      "eligible": false,
+      "score": 0.4339,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05179954",
+      "title": "Lipoprotein Kinetics in T1D",
+      "eligible": false,
+      "score": 0.4319,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06738849",
+      "title": "EkiYou-Study-2 : A National Multicentric Trial of the EkiYou Application for Insulin Bolus Calculation",
+      "eligible": false,
+      "score": 0.4317,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06814171",
+      "title": "UBC Breakfast Study 2.0",
+      "eligible": false,
+      "score": 0.4309,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06325202",
+      "title": "Closed Loop and Education for Hypoglycemia Awareness Restoration",
+      "eligible": false,
+      "score": 0.4275,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    }
+  ]
+}

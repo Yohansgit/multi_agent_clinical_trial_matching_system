@@ -1,0 +1,132 @@
+{
+  "patient_id": "PAT_00050",
+  "verified_trials": [
+    {
+      "nct_id": "NCT06222775",
+      "title": "Multicomponent Intervention on Lifestyle, Anthropometric Measurements, Glycemic Control and Quality of Life in Patients Obese People With Type II Diabetes",
+      "eligible": false,
+      "score": 0.6007,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05498974",
+      "title": "China Diabetes Type 1 Study (CD1S) by China Alliance for Type 1 Diabetes",
+      "eligible": false,
+      "score": 0.5755,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06902857",
+      "title": "Study on the Predictive Value of High-sensitivity Cardiac Troponin I, N-terminal Pro-B-natriuretic Peptide, and Soluble Suppression of Tumorigenesis-2 for Mortality and the Development of Cardiovascular Events in Patients With Type 2 Diabetes (Diabetes-CV)",
+      "eligible": true,
+      "score": 0.5685,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT06407297",
+      "title": "UCMSCs Combined With Standard Therapy for the Treatment of Newly Diagnosed Type 1 Diabetes",
+      "eligible": false,
+      "score": 0.5671,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07150052",
+      "title": "Efficacy and Safety of an Artificial Intelligence Tool for Carbohydrate Counting (Tiabete) in Children and Adults With Type 1 Diabetes Mellitus",
+      "eligible": false,
+      "score": 0.561,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06770673",
+      "title": "Together Overcoming Diabetes - Great Plains",
+      "eligible": true,
+      "score": 0.5525,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT02969798",
+      "title": "Pre-diabetes in Subject With Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)",
+      "eligible": false,
+      "score": 0.5503,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05179954",
+      "title": "Lipoprotein Kinetics in T1D",
+      "eligible": false,
+      "score": 0.5411,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06862128",
+      "title": "OGTT at Home Using CGM vs at the Clinic",
+      "eligible": false,
+      "score": 0.5357,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06325202",
+      "title": "Closed Loop and Education for Hypoglycemia Awareness Restoration",
+      "eligible": false,
+      "score": 0.5336,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06738849",
+      "title": "EkiYou-Study-2 : A National Multicentric Trial of the EkiYou Application for Insulin Bolus Calculation",
+      "eligible": true,
+      "score": 0.5329,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT07193446",
+      "title": "Optimising the Delivery of Diabetes Distress Informed Care for Its Prevention, Detection, and Management in Adults With Type 1 Diabetes: a Feasibility Study (D-stress Study)",
+      "eligible": false,
+      "score": 0.5321,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05754008",
+      "title": "Care Navigator Support for Younger Latinx Adults With Type 2 Diabetes",
+      "eligible": false,
+      "score": 0.5284,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06814171",
+      "title": "UBC Breakfast Study 2.0",
+      "eligible": false,
+      "score": 0.5185,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06650969",
+      "title": "China Diabetes Cognitive Dysfunction Early Diagnosis and Intervention Study (China-DECODE Study)",
+      "eligible": true,
+      "score": 0.5167,
+      "reasoning": "Clinical criteria met."
+    }
+  ]
+}

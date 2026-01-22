@@ -1,0 +1,15 @@
+{
+    "Metrics": {
+        "Accuracy": "86.40%",
+        "Precision": "52.94%",
+        "Recall": "57.80%",
+        "F1_Score": 0.5526
+    },
+    "Counts": {
+        "TP": 63,
+        "FP": 56,
+        "TN": 585,
+        "FN": 46,
+        "Total": 750
+    }
+}

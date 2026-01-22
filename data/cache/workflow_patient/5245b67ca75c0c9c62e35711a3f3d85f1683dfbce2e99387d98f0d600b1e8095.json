@@ -1,0 +1,140 @@
+{
+  "patient_id": "PAT_00020",
+  "verified_trials": [
+    {
+      "nct_id": "NCT06350149",
+      "title": "A Pilot and Feasibility Study to Evaluate High vs Low Glycemic Index Mixed Meal Tolerance Test in Adolescents and Young Adults With Cystic Fibrosis",
+      "eligible": false,
+      "score": 0.4142,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06246175",
+      "title": "A Study of HRS9531 in Participants With Impaired Kidney Function and Healthy Subjects",
+      "eligible": false,
+      "score": 0.3822,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06412536",
+      "title": "Triage Survey for Cardiovascular, Obesity, and Related Endocrine Trial Eligibility",
+      "eligible": false,
+      "score": 0.3735,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06738849",
+      "title": "EkiYou-Study-2 : A National Multicentric Trial of the EkiYou Application for Insulin Bolus Calculation",
+      "eligible": false,
+      "score": 0.363,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07193446",
+      "title": "Optimising the Delivery of Diabetes Distress Informed Care for Its Prevention, Detection, and Management in Adults With Type 1 Diabetes: a Feasibility Study (D-stress Study)",
+      "eligible": false,
+      "score": 0.3591,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06222775",
+      "title": "Multicomponent Intervention on Lifestyle, Anthropometric Measurements, Glycemic Control and Quality of Life in Patients Obese People With Type II Diabetes",
+      "eligible": false,
+      "score": 0.3405,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05498974",
+      "title": "China Diabetes Type 1 Study (CD1S) by China Alliance for Type 1 Diabetes",
+      "eligible": false,
+      "score": 0.3331,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06407297",
+      "title": "UCMSCs Combined With Standard Therapy for the Treatment of Newly Diagnosed Type 1 Diabetes",
+      "eligible": false,
+      "score": 0.3318,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06770673",
+      "title": "Together Overcoming Diabetes - Great Plains",
+      "eligible": false,
+      "score": 0.3316,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06325202",
+      "title": "Closed Loop and Education for Hypoglycemia Awareness Restoration",
+      "eligible": false,
+      "score": 0.3307,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06555952",
+      "title": "MegaNatural BP\u00ae GSE on Blood Pressure and Cardiometabolic Risk Factors",
+      "eligible": false,
+      "score": 0.3306,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07150052",
+      "title": "Efficacy and Safety of an Artificial Intelligence Tool for Carbohydrate Counting (Tiabete) in Children and Adults With Type 1 Diabetes Mellitus",
+      "eligible": false,
+      "score": 0.3303,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07063524",
+      "title": "Transcutaneous Electrical Stimulation and Controlled Heat in People With and Without Diabetes",
+      "eligible": false,
+      "score": 0.328,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06862128",
+      "title": "OGTT at Home Using CGM vs at the Clinic",
+      "eligible": false,
+      "score": 0.3276,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06350513",
+      "title": "The Effect of Animated Movies and Storybooks on Fear and Anxiety Levels in Children With Type 1 Diabetes",
+      "eligible": false,
+      "score": 0.3258,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    }
+  ]
+}

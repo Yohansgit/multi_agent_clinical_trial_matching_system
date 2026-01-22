@@ -1,0 +1,20 @@
+{
+  "$schema": "json-schema.org",
+  "type": "object",
+  "properties": {
+    "patient_id": { "type": "string" },
+    "demographics": {
+      "type": "object",
+      "properties": {
+        "age": { "type": "integer", "minimum": 0, "maximum": 120 },
+        "sex": { "type": "string" },
+        "bmi": { "type": "number" }
+      },
+      "required": ["age", "sex", "bmi"]
+    },
+    "conditions": { "type": "array", "items": { "type": "string" } },
+    "medications": { "type": "array", "items": { "type": "string" } },
+    "RAGText": { "type": "string" }
+  },
+  "required": ["patient_id", "demographics", "conditions", "medications", "RAGText"]
+}

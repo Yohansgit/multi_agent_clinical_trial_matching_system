@@ -1,0 +1,140 @@
+{
+  "patient_id": "PAT_00004",
+  "verified_trials": [
+    {
+      "nct_id": "NCT06246175",
+      "title": "A Study of HRS9531 in Participants With Impaired Kidney Function and Healthy Subjects",
+      "eligible": false,
+      "score": 0.4862,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06555952",
+      "title": "MegaNatural BP\u00ae GSE on Blood Pressure and Cardiometabolic Risk Factors",
+      "eligible": false,
+      "score": 0.4812,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05369065",
+      "title": "Ablation of Arteries for the Treatment of Type 2 Diabetes Mellitus and Its Comorbidities",
+      "eligible": false,
+      "score": 0.4438,
+      "reasoning": [
+        "Hard exclusion matched: current use of > 3 hypertension medications."
+      ]
+    },
+    {
+      "nct_id": "NCT06902857",
+      "title": "Study on the Predictive Value of High-sensitivity Cardiac Troponin I, N-terminal Pro-B-natriuretic Peptide, and Soluble Suppression of Tumorigenesis-2 for Mortality and the Development of Cardiovascular Events in Patients With Type 2 Diabetes (Diabetes-CV)",
+      "eligible": false,
+      "score": 0.4267,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06222775",
+      "title": "Multicomponent Intervention on Lifestyle, Anthropometric Measurements, Glycemic Control and Quality of Life in Patients Obese People With Type II Diabetes",
+      "eligible": false,
+      "score": 0.4246,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT02969798",
+      "title": "Pre-diabetes in Subject With Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)",
+      "eligible": false,
+      "score": 0.4184,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06412536",
+      "title": "Triage Survey for Cardiovascular, Obesity, and Related Endocrine Trial Eligibility",
+      "eligible": false,
+      "score": 0.4156,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06325202",
+      "title": "Closed Loop and Education for Hypoglycemia Awareness Restoration",
+      "eligible": false,
+      "score": 0.4152,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06650969",
+      "title": "China Diabetes Cognitive Dysfunction Early Diagnosis and Intervention Study (China-DECODE Study)",
+      "eligible": false,
+      "score": 0.3994,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05179954",
+      "title": "Lipoprotein Kinetics in T1D",
+      "eligible": false,
+      "score": 0.395,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07193446",
+      "title": "Optimising the Delivery of Diabetes Distress Informed Care for Its Prevention, Detection, and Management in Adults With Type 1 Diabetes: a Feasibility Study (D-stress Study)",
+      "eligible": false,
+      "score": 0.3928,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06619834",
+      "title": "Financial Navigation and Peer Support to Improve Diabetes Outcomes",
+      "eligible": false,
+      "score": 0.3895,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06738849",
+      "title": "EkiYou-Study-2 : A National Multicentric Trial of the EkiYou Application for Insulin Bolus Calculation",
+      "eligible": false,
+      "score": 0.3872,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07150052",
+      "title": "Efficacy and Safety of an Artificial Intelligence Tool for Carbohydrate Counting (Tiabete) in Children and Adults With Type 1 Diabetes Mellitus",
+      "eligible": false,
+      "score": 0.3854,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06735859",
+      "title": "Eating Window and Sleep Disorders on Glycemic Control, Cardiovascular Risk, and Weight Loss",
+      "eligible": false,
+      "score": 0.3847,
+      "reasoning": [
+        "Hard exclusion matched: no diagnosis of obesity, diabetes, and hypertension"
+      ]
+    }
+  ]
+}

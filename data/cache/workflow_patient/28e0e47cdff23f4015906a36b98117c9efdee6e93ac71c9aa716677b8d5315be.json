@@ -1,0 +1,132 @@
+{
+  "patient_id": "PAT_00002",
+  "verified_trials": [
+    {
+      "nct_id": "NCT06325202",
+      "title": "Closed Loop and Education for Hypoglycemia Awareness Restoration",
+      "eligible": true,
+      "score": 0.571,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT06902857",
+      "title": "Study on the Predictive Value of High-sensitivity Cardiac Troponin I, N-terminal Pro-B-natriuretic Peptide, and Soluble Suppression of Tumorigenesis-2 for Mortality and the Development of Cardiovascular Events in Patients With Type 2 Diabetes (Diabetes-CV)",
+      "eligible": false,
+      "score": 0.5673,
+      "reasoning": [
+        "Hard exclusion matched: type 1 diabetes"
+      ]
+    },
+    {
+      "nct_id": "NCT06222775",
+      "title": "Multicomponent Intervention on Lifestyle, Anthropometric Measurements, Glycemic Control and Quality of Life in Patients Obese People With Type II Diabetes",
+      "eligible": false,
+      "score": 0.5612,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT02969798",
+      "title": "Pre-diabetes in Subject With Impaired Fasting Glucose (IFG) and Impaired Glucose Tolerance (IGT)",
+      "eligible": false,
+      "score": 0.5523,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06246175",
+      "title": "A Study of HRS9531 in Participants With Impaired Kidney Function and Healthy Subjects",
+      "eligible": false,
+      "score": 0.5508,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05498974",
+      "title": "China Diabetes Type 1 Study (CD1S) by China Alliance for Type 1 Diabetes",
+      "eligible": true,
+      "score": 0.5501,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT06407297",
+      "title": "UCMSCs Combined With Standard Therapy for the Treatment of Newly Diagnosed Type 1 Diabetes",
+      "eligible": true,
+      "score": 0.5483,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT05179954",
+      "title": "Lipoprotein Kinetics in T1D",
+      "eligible": false,
+      "score": 0.5429,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT07150052",
+      "title": "Efficacy and Safety of an Artificial Intelligence Tool for Carbohydrate Counting (Tiabete) in Children and Adults With Type 1 Diabetes Mellitus",
+      "eligible": true,
+      "score": 0.5366,
+      "reasoning": "Clinical criteria met."
+    },
+    {
+      "nct_id": "NCT07193446",
+      "title": "Optimising the Delivery of Diabetes Distress Informed Care for Its Prevention, Detection, and Management in Adults With Type 1 Diabetes: a Feasibility Study (D-stress Study)",
+      "eligible": false,
+      "score": 0.5279,
+      "reasoning": [
+        "Hard exclusion matched: adults diagnosed with type 1 diabetes less than one year ago."
+      ]
+    },
+    {
+      "nct_id": "NCT06770673",
+      "title": "Together Overcoming Diabetes - Great Plains",
+      "eligible": false,
+      "score": 0.5232,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06738849",
+      "title": "EkiYou-Study-2 : A National Multicentric Trial of the EkiYou Application for Insulin Bolus Calculation",
+      "eligible": false,
+      "score": 0.5204,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT05369065",
+      "title": "Ablation of Arteries for the Treatment of Type 2 Diabetes Mellitus and Its Comorbidities",
+      "eligible": false,
+      "score": 0.5199,
+      "reasoning": [
+        "Hard exclusion matched: current use of > 3 hypertension medications."
+      ]
+    },
+    {
+      "nct_id": "NCT06555952",
+      "title": "MegaNatural BP\u00ae GSE on Blood Pressure and Cardiometabolic Risk Factors",
+      "eligible": false,
+      "score": 0.5171,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    },
+    {
+      "nct_id": "NCT06619834",
+      "title": "Financial Navigation and Peer Support to Improve Diabetes Outcomes",
+      "eligible": false,
+      "score": 0.5079,
+      "reasoning": [
+        "No inclusion criteria satisfied"
+      ]
+    }
+  ]
+}
