@@ -1,10 +1,8 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="images/project_banner.png"
-       alt="Agentic System Architecture Banner"
-       width="800"/>
-</p>
-
+  <img src="images/project_banner.png" alt="Agentic System Architecture Banner" width="800">
+</p>   
+ 
 <p align="center">
   <em>Autonomous Multi-Agent Reasoning, Planning, and Tool-Driven Intelligence</em>
 </p>
@@ -75,21 +73,21 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 - **Critic Agent** – Verifies claims against source evidence  
 
 > See: ![System Architecture](assets/architecture.png)
-> 
-```mermaid
+
+```mermaid   
 flowchart TB
-    EHR[Patient EHR<br/>(FHIR / JSON)]
-    EHR --> PA[Patient Profiling Agent]
-
-    PA --> RAG[Hybrid RAG Retrieval<br/>(Keyword + Vector)]
-    RAG --> TP[Trial Parsing Agent]
-
-    TP --> MC[Medical Conflict Agent]
-    MC --> ER[Eligibility Reasoning Agent]
-    ER --> AGG[Aggregation / Decision Agent]
-
-    AGG --> OUT[Match Reports<br/>JSON + PDF]
-
+    EHR[Patient EHR\n(FHIR / JSON)]      
+    EHR --> PA[Patient Profiling Agent]    
+       
+    PA --> RAG[Hybrid RAG Retrieval\n(Keyword + Vector)]     
+    RAG --> TP[Trial Parsing Agent]     
+    
+    TP --> MC[Medical Conflict Agent]    
+    MC --> ER[Eligibility Reasoning Agent]    
+    ER --> AGG[Aggregation / Decision Agent]    
+    
+    AGG --> OUT[Match Reports\n(JSON + PDF)]    
+    
 ---
 
 ## ⚙️ Key Design Decisions
