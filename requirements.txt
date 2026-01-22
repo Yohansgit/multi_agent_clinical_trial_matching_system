@@ -11,4 +11,6 @@ tqdm
 pinecone-client
 sentence-transformers
 fastapi
-uvicorn 
+uvicorn
+jnsonschema
+ 
