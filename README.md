@@ -72,22 +72,22 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 - **Reasoning Agent** – Determines eligibility and detects conflicts  
 - **Critic Agent** – Verifies claims against source evidence  
 
-# See: ![System Architecture](assets/architecture.png)
+## System Architecture
 
-```mermaid   
+```mermaid
 flowchart TB
-    EHR[Patient EHR\n(FHIR / JSON)]      
-    EHR --> PA[Patient Profiling Agent]    
-       
-    PA --> RAG[Hybrid RAG Retrieval\n(Keyword + Vector)]     
-    RAG --> TP[Trial Parsing Agent]     
+    EHR[Patient EHR (FHIR / JSON)]
+    EHR --> PA[Patient Profiling Agent]
     
-    TP --> MC[Medical Conflict Agent]    
-    MC --> ER[Eligibility Reasoning Agent]    
-    ER --> AGG[Aggregation / Decision Agent]    
+    PA --> RAG[Hybrid RAG Retrieval (Keyword + Vector)]
+    RAG --> TP[Trial Parsing Agent]
     
-    AGG --> OUT[Match Reports\n(JSON + PDF)]    
+    TP --> MC[Medical Conflict Agent]
+    MC --> ER[Eligibility Reasoning Agent]
+    ER --> AGG[Aggregation / Decision Agent]
     
+    AGG --> OUT[Match Reports (JSON + PDF)]
+
 ---      
     
 ## ⚙️ Key Design Decisions   
