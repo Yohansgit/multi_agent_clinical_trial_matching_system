@@ -72,7 +72,7 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 - **Reasoning Agent** – Determines eligibility and detects conflicts  
 - **Critic Agent** – Verifies claims against source evidence  
 
-See: ![System Architecture](assets/architecture.png)
+# See: ![System Architecture](assets/architecture.png)
 
 ```mermaid   
 flowchart TB
@@ -88,9 +88,9 @@ flowchart TB
     
     AGG --> OUT[Match Reports\n(JSON + PDF)]    
     
----
-
-## ⚙️ Key Design Decisions
+---      
+    
+## ⚙️ Key Design Decisions   
 
 ### Why LangGraph?
 - Enables cyclic, multi-agent workflows  
