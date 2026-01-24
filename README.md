@@ -1,7 +1,7 @@
 <!-- Project Banner -->  
 <p align="center">   
   <img  
-    src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_banner.png"   
+    src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_agent.png"   
     alt="Agentic System Architecture Banner"   
     width="800">   
 </p>    
