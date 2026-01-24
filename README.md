@@ -94,15 +94,15 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 
 ```mermaid
 flowchart TB
-    %% Nodes with color
-    EHR["🩺 Patient EHR<br/>FHIR JSON"]
-    PA["👤 Patient Profiling Agent<br/>utils/generate_synthea_records.py"]
-    RAG["🔎 Hybrid RAG Retrieval<br/>vector_store/pinecone_ingest.py + utils/llm_client.py"]
-    TP["📜 Trial Parsing Agent<br/>agents/protocol_agent.py"]
-    MC["🕵️ Medical Conflict Agent<br/>agents/patient_auditor.py"]
-    ER["⚖️ Eligibility Reasoning Agent<br/>agents/reasoning_engine.py"]
-    AGG["🎛️ Aggregation Decision Agent<br/>graph/workflow_manager.py"]
-    OUT["📄 Match Reports<br/>JSON + PDF"]
+    %% Nodes with color, rounded corners, bold labels
+    EHR["<b>🩺 Patient EHR</b><br/><i>FHIR JSON</i>"]
+    PA["<b>👤 Patient Profiling Agent</b><br/>Patient Data Prep"]
+    RAG["<b>🔎 Hybrid RAG Retrieval</b><br/>Keyword + Vector"]
+    TP["<b>📜 Trial Parsing Agent</b><br/>Protocol Extraction"]
+    MC["<b>🕵️ Medical Conflict Agent</b><br/>Eligibility Checks"]
+    ER["<b>⚖️ Eligibility Reasoning Agent</b><br/>Rule Evaluation"]
+    AGG["<b>🎛️ Aggregation Decision Agent</b><br/>Result Compilation"]
+    OUT["<b>📄 Match Reports</b><br/>JSON + PDF"]
 
     %% Edges
     EHR --> PA
@@ -113,15 +113,15 @@ flowchart TB
     ER --> AGG
     AGG --> OUT
 
-    %% Styling nodes with colors
-    style EHR fill:#ffe4b5,stroke:#ff8c00,stroke-width:2px
-    style PA fill:#add8e6,stroke:#1e90ff,stroke-width:2px
-    style RAG fill:#dda0dd,stroke:#8a2be2,stroke-width:2px
-    style TP fill:#90ee90,stroke:#008000,stroke-width:2px
-    style MC fill:#f08080,stroke:#ff0000,stroke-width:2px
-    style ER fill:#fffacd,stroke:#ffd700,stroke-width:2px
-    style AGG fill:#d3d3d3,stroke:#808080,stroke-width:2px
-    style OUT fill:#87ceeb,stroke:#4682b4,stroke-width:2px
+    %% Styling nodes with nicer colors and rounded corners
+    style EHR fill:#fff2cc,stroke:#ffb84d,stroke-width:2px,rx:10,ry:10
+    style PA fill:#cce5ff,stroke:#3399ff,stroke-width:2px,rx:10,ry:10
+    style RAG fill:#e0ccff,stroke:#9933ff,stroke-width:2px,rx:10,ry:10
+    style TP fill:#ccffcc,stroke:#33cc33,stroke-width:2px,rx:10,ry:10
+    style MC fill:#ffcccc,stroke:#ff3333,stroke-width:2px,rx:10,ry:10
+    style ER fill:#fffacd,stroke:#ffd700,stroke-width:2px,rx:10,ry:10
+    style AGG fill:#e6e6e6,stroke:#808080,stroke-width:2px,rx:10,ry:10
+    style OUT fill:#99ccff,stroke:#3366cc,stroke-width:2px,rx:10,ry:10
 
 ```
 ---      
