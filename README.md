@@ -35,9 +35,9 @@ Unlike keyword or vector search systems, it performs **clinical-grade reasoning*
 
 ---
 ## 🎥 Walkthrough & Artifacts
-| Video Walkthrough (5 min)                                                     | Interactive PCA Visualization                                            |    Agent E2E Work Flow                                 | 
-| ------------------------------------                                          | ----------------------------------                                       |    --------------------------------                    |
-| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)**             | *[📄 Sample Match Report](data/matches/sample_match_report.pdf)*        |  [ 📓 View Workflow Script](run_workflow.py)   
+| Video Walkthrough (5 min)                                                                 | Interactive PCA Visualization                                                 |    Agent E2E Work Flow                                 | 
+| ------------------------------------                                                      | ----------------------------------                                            |    --------------------------------                    |
+| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)**                        | *[📄 Sample Match Report](data/matches/sample_match_report.pdf)*              |  [ 📓 View Workflow Script](run_workflow.py)   
 
 ---
 
@@ -88,13 +88,13 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 - **Protocol Agent** – Extracts structured inclusion/exclusion criteria  
 - **Patient Auditor Agent** – Summarizes EHR history and medications  
 - **Reasoning Agent** – Determines eligibility and detects conflicts  
-- **Critic Agent** – Verifies claims against source evidence  
-
-## System Architecture
+- **Critic Agent** – Verifies claims against source evidence
+  
+## Agentic Workflow Diagram
 
 ```mermaid
 flowchart TB
-    %% Nodes with color, rounded corners, bold labels
+    %% Nodes
     EHR["<b>🩺 Patient EHR</b><br/><i>FHIR JSON</i>"]
     PA["<b>👤 Patient Profiling Agent</b><br/>Patient Data Prep"]
     RAG["<b>🔎 Hybrid RAG Retrieval</b><br/>Keyword + Vector"]
@@ -113,7 +113,7 @@ flowchart TB
     ER --> AGG
     AGG --> OUT
 
-    %% Styling nodes with nicer colors and rounded corners
+    %% Styling
     style EHR fill:#fff2cc,stroke:#ffb84d,stroke-width:2px,rx:10,ry:10
     style PA fill:#cce5ff,stroke:#3399ff,stroke-width:2px,rx:10,ry:10
     style RAG fill:#e0ccff,stroke:#9933ff,stroke-width:2px,rx:10,ry:10
