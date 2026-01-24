@@ -11,9 +11,14 @@
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![GPT](https://img.shields.io/badge/GPT-5-mini-orange?logo=openai&logoColor=white)](#)
 [![LLM](https://img.shields.io/badge/LLM-Agentic%20System-purple)](#)
 [![Tools](https://img.shields.io/badge/Tools-Orchestration-orange)](#)
+[![RAG](https://img.shields.io/badge/RAG-Hybrid%20Retrieval-red)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.101-green?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 🧠 Multi-Agent Autonomous Clinical Trial Matching System  
 **Agentic RAG using LangGraph, GPT-4o, and Pinecone**
