@@ -1,16 +1,24 @@
-<!-- Project Banner -->
-<p align="center">
-  <img src="images/project_banner.png" alt="Agentic System Architecture Banner" width="800">
-</p>   
- 
+<!-- Project Banner -->  
+<p align="center">   
+  <img  
+    src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_agent.png"   
+    alt="Agentic System Architecture Banner"   
+    width="400">   
+</p>    
+
 <p align="center">
   <em>Autonomous Multi-Agent Reasoning, Planning, and Tool-Driven Intelligence</em>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![GPT](https://img.shields.io/badge/GPT-5-mini-orange?logo=openai&logoColor=white)](#)
 [![LLM](https://img.shields.io/badge/LLM-Agentic%20System-purple)](#)
 [![Tools](https://img.shields.io/badge/Tools-Orchestration-orange)](#)
+[![RAG](https://img.shields.io/badge/RAG-Hybrid%20Retrieval-red)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.101-green?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 🧠 Multi-Agent Autonomous Clinical Trial Matching System  
 **Agentic RAG using LangGraph, GPT-4o, and Pinecone**
@@ -76,18 +84,18 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 
 ```mermaid
 flowchart TB
-    EHR[Patient EHR (FHIR / JSON)]
-    EHR --> PA[Patient Profiling Agent]
-    
-    PA --> RAG[Hybrid RAG Retrieval (Keyword + Vector)]
-    RAG --> TP[Trial Parsing Agent]
-    
-    TP --> MC[Medical Conflict Agent]
-    MC --> ER[Eligibility Reasoning Agent]
-    ER --> AGG[Aggregation / Decision Agent]
-    
-    AGG --> OUT[Match Reports (JSON + PDF)]
+    EHR["Patient EHR<br/>FHIR JSON"]
+    EHR --> PA["Patient Profiling Agent"]
 
+    PA --> RAG["Hybrid RAG Retrieval<br/>Keyword + Vector"]
+    RAG --> TP["Trial Parsing Agent"]
+
+    TP --> MC["Medical Conflict Agent"]
+    MC --> ER["Eligibility Reasoning Agent"]
+    ER --> AGG["Aggregation Decision Agent"]
+
+    AGG --> OUT["Match Reports<br/>JSON + PDF"]
+```
 ---      
     
 ## ⚙️ Key Design Decisions   
