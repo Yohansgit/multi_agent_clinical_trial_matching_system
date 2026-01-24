@@ -37,7 +37,7 @@ Unlike keyword or vector search systems, it performs **clinical-grade reasoning*
 ## 🎥 Walkthrough & Artifacts
 | Video Walkthrough (5 min)                                                     | Interactive PCA Visualization                                            |    Agent E2E Work Flow                                 | 
 | ------------------------------------                                          | ----------------------------------                                       |    --------------------------------                    |
-| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)**             | *[📄 Sample Match Report](data/matches/sample_match_report.pdf)*        |   [📓View workflow Script](/blob/main/run_workflow.py) |  
+| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)**             | *[📄 Sample Match Report](data/matches/sample_match_report.pdf)*        |  [ 📓 View Workflow Script](run_workflow.py)   
 
 ---
 
