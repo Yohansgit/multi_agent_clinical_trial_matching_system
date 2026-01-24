@@ -1,9 +1,10 @@
-<!-- Project Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_banner.png"    
-      alt="Agentic System Architecture Banner"    
-      width="800" style="object-fit:cover;">        
-</p>   
+<!-- Project Banner -->  
+<p align="center">   
+  <img  
+    src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_banner.png"   
+    alt="Agentic System Architecture Banner"   
+    width="800">   
+</p>    
 
 <p align="center">
   <em>Autonomous Multi-Agent Reasoning, Planning, and Tool-Driven Intelligence</em>
