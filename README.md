@@ -3,11 +3,11 @@
   <img  
     src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_agent.png"   
     alt="Agentic System Architecture Banner"   
-    width="400">   
+    width="250">   
 </p>    
 
 <p align="center">
-  <em>Autonomous Multi-Agent Reasoning, Planning, and Tool-Driven Intelligence</em>
+  <em>Agentic AI for Autonomous Clinical Reasoning, Planning, and Decision-Making</em>
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -21,7 +21,7 @@
 
 
 ## 🧠 Multi-Agent Autonomous Clinical Trial Matching System  
-**Agentic RAG using LangGraph, GPT-4o, and Pinecone**
+**A Generative AI & Agentic RAG Solution using LangGraph, GPT-4o, and Pinecone**
 
 ---
 
@@ -35,9 +35,9 @@ Unlike keyword or vector search systems, it performs **clinical-grade reasoning*
 
 ---
 ## 🎥 Walkthrough & Artifacts
-| Video Walkthrough (5 min)                                                            | Interactive PCA Visualization                               |    Agent E2E Work Flow               | 
-| ------------------------------------                                                 | ----------------------------------                          |    --------------------------------                                                     |
-| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)** |                **[📄 Sample Match Report(/.pdf)**                             |   **[📓View workflow Script](workflow_run.py)** |  
+| Video Walkthrough (5 min)                                                     | Interactive PCA Visualization                                            |    Agent E2E Work Flow                                 | 
+| ------------------------------------                                          | ----------------------------------                                       |    --------------------------------                    |
+| **[▶ Click Here to Watch the Loom](https://www.loom.com/share/)**             | *[📄 Sample Match Report](data/matches/sample_match_report.pdf)*        |   [📓View workflow Script](/blob/main/run_workflow.py) |  
 
 ---
 
