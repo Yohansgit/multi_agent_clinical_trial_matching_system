@@ -46,14 +46,23 @@ Unlike keyword or vector search systems, it performs **clinical-grade reasoning*
 **Fictional Client:**  
 VP of Clinical Development, *Global Pharma Solutions*
 
-### ❌ The Problem
-- 80% of clinical trials fail to meet enrollment timelines  
-- Manual patient screening is slow, expensive, and error-prone  
-- Trial protocols and EHRs are long, unstructured, and medically complex  
+### 🎯 Objectives
+
+- Identify relevant clinical trials for patients based on conditions, medications, and demographics.
+- Use agents to evaluate eligibility, resolve conflicts, and generate auditable reasoning.
+- Combine keyword and vector search to retrieve trials and provide transparent match scoring.
+- Produce structured JSON and PDF reports for easy clinical review and demonstration.
+
+
+### 🎯 The Problem
+
+Clinical trial recruitment is a multi-billion dollar bottleneck. Traditional patient matching is manual, error-prone, and slow, with up to **80% of trials failing to meet enrollment timelines**. 
+The core challenge lies in reasoning across two unstructured data sources: complex, multi-page trial protocols and messy, longitudinal patient EHR records.
 
 The core challenge is **reasoning across two unstructured medical data sources at scale**.
 
 ### ✅ The Solution
+
 An **Autonomous Multi-Agent AI system** that:
 
 - Extracts eligibility criteria from trial protocols  
@@ -64,6 +73,7 @@ An **Autonomous Multi-Agent AI system** that:
 Agents collaborate and validate each other’s outputs, mirroring real clinical decision-making.
 
 ### 📈 The Outcome
+
 - ✅ 5,000+ synthetic patients (Synthea)  
 - ✅ 100+ ClinicalTrials.gov protocols  
 - ✅ 86% accuracy in eligibility conflict detection  
@@ -84,17 +94,17 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 
 ```mermaid
 flowchart TB
-    EHR["Patient EHR<br/>FHIR JSON"]
-    EHR --> PA["Patient Profiling Agent"]
+    EHR["🩺 Patient EHR<br/>FHIR JSON"]
+    EHR --> PA["👤 Patient Profiling Agent<br/>utils/generate_synthea_records.py"]
 
-    PA --> RAG["Hybrid RAG Retrieval<br/>Keyword + Vector"]
-    RAG --> TP["Trial Parsing Agent"]
+    PA --> RAG["🔎 Hybrid RAG Retrieval<br/>vector_store/pinecone_ingest.py + utils/llm_client.py"]
+    RAG --> TP["📜 Trial Parsing Agent<br/>agents/protocol_agent.py"]
 
-    TP --> MC["Medical Conflict Agent"]
-    MC --> ER["Eligibility Reasoning Agent"]
-    ER --> AGG["Aggregation Decision Agent"]
+    TP --> MC["🕵️ Medical Conflict Agent<br/>agents/patient_auditor.py"]
+    MC --> ER["⚖️ Eligibility Reasoning Agent<br/>agents/reasoning_engine.py"]
+    ER --> AGG["🎛️ Aggregation Decision Agent<br/>graph/workflow_manager.py"]
 
-    AGG --> OUT["Match Reports<br/>JSON + PDF"]
+    AGG --> OUT["📄 Match Reports<br/>JSON + PDF"]
 ```
 ---      
     
