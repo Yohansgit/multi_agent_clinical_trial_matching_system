@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="images/project_banner_banner.png" alt="Agentic System Architecture Banner" width="800">
+  <img src="https://raw.githubusercontent.com/Yohansgit/multi_agent_clinical_trial_matching_system/main/images/project_banner_banner.png" alt="Agentic System Architecture Banner" width="800">
 </p>   
 
 <p align="center">
@@ -76,17 +76,17 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 
 ```mermaid
 flowchart TB
-    EHR[Patient EHR (FHIR / JSON)]
-    EHR --> PA[Patient Profiling Agent]
-    
-    PA --> RAG[Hybrid RAG Retrieval (Keyword + Vector)]
-    RAG --> TP[Trial Parsing Agent]
-    
-    TP --> MC[Medical Conflict Agent]
-    MC --> ER[Eligibility Reasoning Agent]
-    ER --> AGG[Aggregation / Decision Agent]
-    
-    AGG --> OUT[Match Reports (JSON + PDF)]
+    EHR["Patient EHR<br/>FHIR JSON"]
+    EHR --> PA["Patient Profiling Agent"]
+
+    PA --> RAG["Hybrid RAG Retrieval<br/>Keyword + Vector"]
+    RAG --> TP["Trial Parsing Agent"]
+
+    TP --> MC["Medical Conflict Agent"]
+    MC --> ER["Eligibility Reasoning Agent"]
+    ER --> AGG["Aggregation Decision Agent"]
+
+    AGG --> OUT["Match Reports<br/>JSON + PDF"]
 ```
 ---      
     
