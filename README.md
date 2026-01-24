@@ -94,17 +94,35 @@ Agents collaborate and validate each other’s outputs, mirroring real clinical 
 
 ```mermaid
 flowchart TB
+    %% Nodes with color
     EHR["🩺 Patient EHR<br/>FHIR JSON"]
-    EHR --> PA["👤 Patient Profiling Agent<br/>utils/generate_synthea_records.py"]
+    PA["👤 Patient Profiling Agent<br/>utils/generate_synthea_records.py"]
+    RAG["🔎 Hybrid RAG Retrieval<br/>vector_store/pinecone_ingest.py + utils/llm_client.py"]
+    TP["📜 Trial Parsing Agent<br/>agents/protocol_agent.py"]
+    MC["🕵️ Medical Conflict Agent<br/>agents/patient_auditor.py"]
+    ER["⚖️ Eligibility Reasoning Agent<br/>agents/reasoning_engine.py"]
+    AGG["🎛️ Aggregation Decision Agent<br/>graph/workflow_manager.py"]
+    OUT["📄 Match Reports<br/>JSON + PDF"]
 
-    PA --> RAG["🔎 Hybrid RAG Retrieval<br/>vector_store/pinecone_ingest.py + utils/llm_client.py"]
-    RAG --> TP["📜 Trial Parsing Agent<br/>agents/protocol_agent.py"]
+    %% Edges
+    EHR --> PA
+    PA --> RAG
+    RAG --> TP
+    TP --> MC
+    MC --> ER
+    ER --> AGG
+    AGG --> OUT
 
-    TP --> MC["🕵️ Medical Conflict Agent<br/>agents/patient_auditor.py"]
-    MC --> ER["⚖️ Eligibility Reasoning Agent<br/>agents/reasoning_engine.py"]
-    ER --> AGG["🎛️ Aggregation Decision Agent<br/>graph/workflow_manager.py"]
+    %% Styling nodes with colors
+    style EHR fill:#ffe4b5,stroke:#ff8c00,stroke-width:2px
+    style PA fill:#add8e6,stroke:#1e90ff,stroke-width:2px
+    style RAG fill:#dda0dd,stroke:#8a2be2,stroke-width:2px
+    style TP fill:#90ee90,stroke:#008000,stroke-width:2px
+    style MC fill:#f08080,stroke:#ff0000,stroke-width:2px
+    style ER fill:#fffacd,stroke:#ffd700,stroke-width:2px
+    style AGG fill:#d3d3d3,stroke:#808080,stroke-width:2px
+    style OUT fill:#87ceeb,stroke:#4682b4,stroke-width:2px
 
-    AGG --> OUT["📄 Match Reports<br/>JSON + PDF"]
 ```
 ---      
     
