@@ -1,8 +1,8 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="images/project_banner.png" alt="Agentic System Architecture Banner" width="800">
+  <img src="images/project_banner_banner.png" alt="Agentic System Architecture Banner" width="800">
 </p>   
- 
+
 <p align="center">
   <em>Autonomous Multi-Agent Reasoning, Planning, and Tool-Driven Intelligence</em>
 </p>
@@ -87,7 +87,7 @@ flowchart TB
     ER --> AGG[Aggregation / Decision Agent]
     
     AGG --> OUT[Match Reports (JSON + PDF)]
-
+```
 ---      
     
 ## ⚙️ Key Design Decisions   
