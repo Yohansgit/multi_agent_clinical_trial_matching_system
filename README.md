@@ -223,19 +223,19 @@ pip install -r requirements.txt
 📚 References
 
 LangGraph – https://www.langgraph.com
- – Multi-agent orchestration framework.
-OpenAI GPT-4o – https://openai.com
- – LLM for reasoning and natural language processing.
-Pinecone Vector Database – https://www.pinecone.io
- – Semantic search & vector storage.
-FHIR (Fast Healthcare Interoperability Resources) – https://www.hl7.org/fhir/
- – Standard for electronic health records.
-Synthea Synthetic Patient Generator – https://synthetichealth.github.io/synthea/
- – Synthetic patient datasets.
-ReportLab – https://www.reportlab.com
- – PDF generation library for Python.
-Pydantic – https://pydantic-docs.helpmanual.io
- – Data validation & structured schema extraction.
-
-#### 📄 License
-MIT License - See `LICENSE` file for details
+ – Multi-agent orchestration framework.    
+OpenAI GPT-4o – https://openai.com     
+ – LLM for reasoning and natural language processing.   
+Pinecone Vector Database – https://www.pinecone.io    
+ – Semantic search & vector storage.   
+FHIR (Fast Healthcare Interoperability Resources) – https://www.hl7.org/fhir/   
+ – Standard for electronic health records.   
+Synthea Synthetic Patient Generator – https://synthetichealth.github.io/synthea/      
+ – Synthetic patient datasets.    
+ReportLab – https://www.reportlab.com     
+ – PDF generation library for Python.    
+Pydantic – https://pydantic-docs.helpmanual.io       
+ – Data validation & structured schema extraction.    
+   
+#### 📄 License   
+MIT License - See `LICENSE` file for details   
