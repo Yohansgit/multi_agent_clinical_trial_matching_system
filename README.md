@@ -197,9 +197,9 @@ multi_agent_clinical_trial_matching_system/
 ├── 🗂️ data/   
 │   └── 📄 clinical_trials_sample.json  # Sample clinical trial dataset   
 ├── 🖼️ architecture_diagram.png         # Visual system architecture   
-└── 📋 requirements.txt                 # Python dependencies       
-    
----    
+└── 📋 requirements.txt                 # Python dependencies
+```
+---
 ## 2. How to Run
 
 # 1. Clone repo   
@@ -219,7 +219,6 @@ pip install -r requirements.txt
 
 # 5. Run matching engine for a patient
 `python graph/workflow_manager.py` --patient_id P123
-`python graph/workflow_manager.py --patient_id P123`
 
 📚 References
 
