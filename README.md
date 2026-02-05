@@ -219,6 +219,7 @@ pip install -r requirements.txt
 
 # 5. Run matching engine for a patient
 `python graph/workflow_manager.py` --patient_id P123
+`python graph/workflow_manager.py --patient_id P123`
 
 📚 References
 
