@@ -202,22 +202,22 @@ multi_agent_clinical_trial_matching_system/
 ---
 ## 2. How to Run
 
-# 1. Clone repo   
+### 1. Clone repo   
 git clone https://github.com/Yohansgit/multi_agent_clinical_trial_matching_system.git   
 cd multi_agent_clinical_trial_matching_system   
 
-# 2. Install dependencies       
+### 2. Install dependencies       
 pip install -r requirements.txt           
 
-# 3. Add API keys   
+### 3. Add API keys   
 Create .env in project root with:  
 `OPENAI_API_KEY`=your_openai_api_key_here
 `PINECONE_API_KEY`=your_pinecone_api_key_here
 
-# 4. Ingest clinical trial data
+### 4. Ingest clinical trial data
 `python vector_store/pinecone_ingest.py`
 
-# 5. Run matching engine for a patient
+### 5. Run matching engine for a patient
 `python graph/workflow_manager.py` --patient_id P123
 
 ### 📚 References
