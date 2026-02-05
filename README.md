@@ -210,9 +210,9 @@ cd multi_agent_clinical_trial_matching_system
 pip install -r requirements.txt           
 
 # 3. Add API keys   
-# Create .env in project root with:  
-# `OPENAI_API_KEY`=your_openai_api_key_here
-# `PINECONE_API_KEY`=your_pinecone_api_key_here
+Create .env in project root with:  
+`OPENAI_API_KEY`=your_openai_api_key_here
+`PINECONE_API_KEY`=your_pinecone_api_key_here
 
 # 4. Ingest clinical trial data
 `python vector_store/pinecone_ingest.py`
@@ -220,7 +220,7 @@ pip install -r requirements.txt
 # 5. Run matching engine for a patient
 `python graph/workflow_manager.py` --patient_id P123
 
-📚 References
+### 📚 References
 
 LangGraph – https://www.langgraph.com
  – Multi-agent orchestration framework.    
@@ -237,5 +237,5 @@ ReportLab – https://www.reportlab.com
 Pydantic – https://pydantic-docs.helpmanual.io       
  – Data validation & structured schema extraction.    
    
-#### 📄 License   
+### 📄 License   
 MIT License - See `LICENSE` file for details   
